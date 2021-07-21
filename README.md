@@ -44,6 +44,7 @@ Created a ResNet based mini model with the architecture as shown below:-
 
 ## Model Training
 Trained the model with Adam optimizer with an initial learning rate of `1e-3`. Stopped the training when accuracy reached 85% as it is a decent accuracy for this dataset. Special care was taken to prevent overfitting as reflected in below training and validation curves:-
+
 ![image](https://user-images.githubusercontent.com/45910651/122989115-1259f900-d3c0-11eb-85dc-a3fd7c04f25c.png)
 
 ## Performance of the trained model
